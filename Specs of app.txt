@@ -1,0 +1,16 @@
+Welcome
+
+How to Use our Chatting App?
+
+1. If you are not register then you have to register there is register button on welcome page.
+2. On registeration page fill general information.
+3. Click On Previous button.
+4. Now click on sign in button.
+5. Write your valid username and password.
+6. Click on login button.
+7. Then Profile page will appear.
+8. There are 2 options on profile page
+     i) Chat
+     ii) Sign out
+9. On chat page You have to enter port number.
+10. after chatting you can log out your account.
